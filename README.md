@@ -1,7 +1,7 @@
 ## Hi 👋, I'm [Sakthivel J](https://github.com/sakthivelj)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakthivel-j)
-[!Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(sakthivel1023@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sakthivel1023@gmail.com)
 
 #### About me
 
