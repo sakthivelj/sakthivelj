@@ -3,10 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakthivel-j)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sakthivel1023@gmail.com)
 
-#### About me
+<!-- #### About me -->
 
 
-#### Technologies used for robotics
+## Technologies used for robotics
 
 <h3>Languages</h3>
 <p>
@@ -28,6 +28,18 @@
     </tr>
   </tbody>
 </table>
+
+
+<h3>Hardware</h3>
+<p>
+  <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</p>
+<h3>OS</h3>
+<p>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
 
 
 <!---
