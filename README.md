@@ -5,13 +5,15 @@
 
 I'm an R & D Engineer from Goa, with a strong interest in 3D scanning technology and machine learning applications in medical imaging. 
 
-🔭 I’m currently working on a 3D scanner project, pushing the boundaries of what's possible in the domain of 3D imagery.
+🔭 I’m currently working on a 3D scanner project
 
-🌱 I’m continually learning and expanding my skills. Currently, I'm delving into Machine Learning, particularly focusing on its applications in medical imaging. I believe this field has immense potential to revolutionize healthcare, and I aspire to be part of this change.
+🌱 I’m continually learning and expanding my skills. Currently, I'm studying Machine Learning with a focus on medical imaging. This field has the potential to revolutionize healthcare, and I hope to play a part in it.
 
 ⚡ Fun fact: I'm a firm believer that dreams do come true. With passion, perseverance, and hard work, we can turn our most ambitious dreams into reality!
 
 ![Sakthivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakthivelj&show_icons=true&theme=radical)
+
+
 Feel free to connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakthivel-j)
