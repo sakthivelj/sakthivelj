@@ -5,9 +5,9 @@
 
 I'm a Software Engineer at Coratia Technologies.
 
-🌱 I’m continually learning and expanding my skills. Currently, I'm studying Machine Learning with a focus on medical imaging. This field has the potential to revolutionize healthcare, and I hope to play a part in it.
+🌱 I’m continually learning and expanding my skills.
 
-⚡ Fun fact: I'm a firm believer that dreams do come true. With passion, perseverance, and hard work, we can turn our most ambitious dreams into reality!
+I believe dreams can come true with passion, perseverance, and hard work. The best way to predict the future is to create it.
 
 ![Sakthivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakthivelj&show_icons=true&theme=radical)
 
